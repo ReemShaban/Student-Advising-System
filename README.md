@@ -3,9 +3,9 @@
 
 A C++ console application that facilitates the time-consuming advising process. Not only does this program allow for easy course registration and visualization of courses dependency trees but based on a prior knowledge of the students records, it can identify available courses and personalize a recommended combination that will best suit that student as well.
 
-<table>
+<table cellspacing="0" cellpadding="0">
   <tr>
-    <td><img style="width:100%;" src="/images/cell0.png" alt="screenshot 1"></td>
+    <td><img src="/images/cell0.png" alt="screenshot 1"></td>
     <td><img src="/images/cell1.png" alt="screenshot 1"></td>
     <td><img src="/images/cell2.png" alt="screenshot 1"></td>
   </tr>
