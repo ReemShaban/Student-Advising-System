@@ -5,18 +5,18 @@ A C++ console application that facilitates the time-consuming advising process. 
 
 <table>
   <tr>
-    <td>Cell 1</td>
-    <td>Cell 2</td>
-    <td>Cell 3</td>
+    <td><img src="/images/cell0.png" alt="screenshot 1"></td>
+    <td><img src="/images/cell1.png" alt="screenshot 1"></td>
+    <td><img src="/images/cell2.png" alt="screenshot 1"></td>
   </tr>
   <tr>
-    <td>Cell 4</td>
-    <td>Cell 5</td>
-    <td>Cell 6</td>
+    <td><img src="/images/cell3.png" alt="screenshot 1"></td>
+    <td><img src="/images/cell4.png" alt="screenshot 1"></td>
+    <td><img src="/images/cell5.png" alt="screenshot 1"></td>
   </tr>
   <tr>
-    <td>Cell 7</td>
-    <td>Cell 8</td>
-    <td>Cell 9</td>
+    <td><img src="/images/cell6.png" alt="screenshot 1"></td>
+    <td><img src="/images/cell7.png" alt="screenshot 1"></td>
+    <td><img src="/images/cell8.png" alt="screenshot 1"></td>
   </tr>  
 </table>
