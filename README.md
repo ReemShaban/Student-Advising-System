@@ -5,7 +5,7 @@ A C++ console application that facilitates the time-consuming advising process. 
 
 <table>
   <tr>
-    <td><img src="/images/cell0.png" alt="screenshot 1"></td>
+    <td><img style="width:100%;" src="/images/cell0.png" alt="screenshot 1"></td>
     <td><img src="/images/cell1.png" alt="screenshot 1"></td>
     <td><img src="/images/cell2.png" alt="screenshot 1"></td>
   </tr>
